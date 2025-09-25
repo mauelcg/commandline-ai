@@ -1,0 +1,24 @@
+{
+    "name": "client",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "prettier": {
+        "tabWidth": 4
+    },
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "vite": "^4.2.0"
+    },
+    "dependencies": {
+        "chalk": "^5.2.0",
+        "chalk-animation": "^2.0.3",
+        "figlet": "^1.5.2",
+        "gradient-string": "^2.0.2",
+        "inquirer": "^9.1.5"
+    }
+}

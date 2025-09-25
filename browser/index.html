@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Henry AI</title>
+	<link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+	<header>
+		<div class="container">
+			<a id="a-title" href="">
+				<h1>HenryGPT</h1>
+			</a>
+			<h2></h2>
+			<section id="downloads">
+				<a href="" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+			</section>
+		</div>
+	</header>
+
+	<div id="app">
+		<div class="chat_container" id="main_container">
+			<div class="title">Ask GPT anything. Type QUIT to quit.</div>
+			<form>
+				<div class="prompt_appearance">
+					<img class="prompt_img" src="assets/bullet.png" alt="" />
+				</div>
+				<textarea class="textarea" id="main_textarea" name="prompt" rows="1" cols="1"
+					placeholder="()"></textarea>
+				<button type="submit"></button>
+			</form>
+		</div>
+	</div>
+	<script type="module" src="/script.js"></script>
+</body>
+
+</html>
