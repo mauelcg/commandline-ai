@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("commandline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e007c4be7b163cad7cf4b30f33051964579dac62")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b29ea54502e99c1708c38c025965ab0624f90ea1")]
 [assembly: System.Reflection.AssemblyProductAttribute("commandline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("commandline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
