@@ -1,0 +1,15 @@
+E:\Personal\Python\commandline-ai\commandline\bin\Debug\net9.0\commandline.exe
+E:\Personal\Python\commandline-ai\commandline\bin\Debug\net9.0\commandline.deps.json
+E:\Personal\Python\commandline-ai\commandline\bin\Debug\net9.0\commandline.runtimeconfig.json
+E:\Personal\Python\commandline-ai\commandline\bin\Debug\net9.0\commandline.dll
+E:\Personal\Python\commandline-ai\commandline\bin\Debug\net9.0\commandline.pdb
+E:\Personal\Python\commandline-ai\commandline\obj\Debug\net9.0\commandline.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\Python\commandline-ai\commandline\obj\Debug\net9.0\commandline.AssemblyInfoInputs.cache
+E:\Personal\Python\commandline-ai\commandline\obj\Debug\net9.0\commandline.AssemblyInfo.cs
+E:\Personal\Python\commandline-ai\commandline\obj\Debug\net9.0\commandline.csproj.CoreCompileInputs.cache
+E:\Personal\Python\commandline-ai\commandline\obj\Debug\net9.0\commandline.sourcelink.json
+E:\Personal\Python\commandline-ai\commandline\obj\Debug\net9.0\commandline.dll
+E:\Personal\Python\commandline-ai\commandline\obj\Debug\net9.0\refint\commandline.dll
+E:\Personal\Python\commandline-ai\commandline\obj\Debug\net9.0\commandline.pdb
+E:\Personal\Python\commandline-ai\commandline\obj\Debug\net9.0\commandline.genruntimeconfig.cache
+E:\Personal\Python\commandline-ai\commandline\obj\Debug\net9.0\ref\commandline.dll
