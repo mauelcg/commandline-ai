@@ -1,1 +1,1 @@
-A command-line and personal assistant that combines conversational AI with intelligent file management capabilities. 
+A command-line and web-based personal assistant that combines conversational AI with intelligent file management capabilities. 
