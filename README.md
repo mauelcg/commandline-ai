@@ -31,6 +31,8 @@ henryclai/
 │── README.md
 ```
 
+---
+
 ## 📅 Project Timeline
 <table width="100%">
   <tr>
