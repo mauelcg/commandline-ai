@@ -1,7 +1,7 @@
 # 🤖 CommandlineAI
 
 ## 📖 Description
-HenryCLAI is a **personal assistant** project that combines **conversational AI** with **intelligent file management capabilities**.  
+CommandlineAI is a **personal assistant** project that combines **conversational AI** with **intelligent file management capabilities**.  
 
 It provides multiple interfaces for flexibility:
 - 🌐 **Node.js API** – Backend services powering AI and file operations.  
